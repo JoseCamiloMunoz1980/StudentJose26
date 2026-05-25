@@ -13,7 +13,7 @@ public class newStudent {
     private String name;
     private String lastname;
 
-    /**
+    /** versionPartTime Jose Camilo
      * @return the name
      */
     public String getName() {
