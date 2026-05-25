@@ -13,6 +13,7 @@ public class newStudent {
     private int sid;
     private String name;
     private String lastname;
+    private int semester;
 
     /**
      * @return the name
