@@ -11,6 +11,7 @@ package studentlist;
 public class newStudent {
     
     private String name;
+    private String lastname;
 
     /**
      * @return the name
@@ -24,6 +25,20 @@ public class newStudent {
      */
     public void setName(String name) {
         this.name = name;
+    }
+
+    /**
+     * @return the lastname
+     */
+    public String getLastname() {
+        return lastname;
+    }
+
+    /**
+     * @param lastname the lastname to set
+     */
+    public void setLastname(String lastname) {
+        this.lastname = lastname;
     }
     
     
