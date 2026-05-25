@@ -9,7 +9,8 @@ package studentlist;
  * @author pepecamilo
  */
 public class newStudent {
-    
+
+    private int sid;
     private String name;
     private String lastname;
 
